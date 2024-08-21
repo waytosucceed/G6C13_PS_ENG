@@ -1,0 +1,270 @@
+{
+  "heading": "Questions and Answers",
+  "topics": [
+    {
+      "heading": "Prepositional Phrases",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which prepositional phrase best completes the sentence: 'The cat sleeps _____ the warm blanket.'?",
+          "options": [
+            "on top of",
+            "in spite of",
+            "because of",
+            "instead of"
+          ],
+          "answer": 0,
+          "explanation": "This prepositional phrase indicates the cat's position in relation to the blanket."
+        },
+        {
+          "questionNo": 2,
+          "question": "A prepositional phrase always starts with a preposition.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 0,
+          "explanation": "A prepositional phrase always begins with a preposition, which is followed by its object, typically a noun or pronoun."
+        },
+        {
+          "questionNo": 3,
+          "question": "The keys are ________ the table. (on/in)",
+          "options": [
+            "on",
+            "in"
+          ],
+          "answer": 0,
+          "explanation": "'On' is the correct preposition because it indicates that the keys are resting on the surface of the table."
+        },
+        {
+          "questionNo": 4,
+          "question": "We're going to the beach ________ the weekend. (in/during)",
+          "options": [
+            "in",
+            "during"
+          ],
+          "answer": 1,
+          "explanation": "'During' is the correct preposition because it indicates that the trip to the beach will happen at some point within the time frame of the weekend."
+        },
+        {
+          "questionNo": 5,
+          "question": "'Under the bridge' is an example of a prepositional phrase.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 0,
+          "explanation": "'Under the bridge' is indeed a prepositional phrase. It starts with the preposition 'under' and is followed by its object, 'the bridge.'"
+        },
+        {
+          "questionNo": 6,
+          "question": "The cat jumped ________ the fence. (over/by)",
+          "options": [
+            "over",
+            "by"
+          ],
+          "answer": 0,
+          "explanation": "'Over' is the correct preposition because it indicates that the cat jumped from one side of the fence to the other, passing above it."
+        },
+        {
+          "questionNo": 7,
+          "question": "All prepositional phrases contain at least three words.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "explanation": "Prepositional phrases can contain as few as two words. For example, 'in school' and 'at home' are both prepositional phrases consisting of just a preposition and its object."
+        },
+        {
+          "questionNo": 8,
+          "question": "In the sentence 'The dog barked at the mailman,' what is the prepositional phrase?",
+          "options": [
+            "The dog",
+            "barked at",
+            "at the mailman",
+            "the mailman"
+          ],
+          "answer": 2,
+          "explanation": "This phrase consists of the preposition 'at' followed by its object 'the mailman'."
+        },
+        {
+          "questionNo": 9,
+          "question": "She hid the present ________ the bed. (under/over)",
+          "options": [
+            "under",
+            "over"
+          ],
+          "answer": 0,
+          "explanation": "'Under' is the correct preposition because it indicates that the present is placed beneath the bed."
+        },
+        {
+          "questionNo": 10,
+          "question": "They walked ________ the park. (though/through)",
+          "options": [
+            "though",
+            "through"
+          ],
+          "answer": 1,
+          "explanation": "'Through' is the correct preposition because it indicates that they moved from one side of the park to the other, passing within it."
+        },
+        {
+          "questionNo": 11,
+          "question": "The bird flew ________ the tree. (into/onto)",
+          "options": [
+            "into",
+            "onto"
+          ],
+          "answer": 0,
+          "explanation": "'Into' is the correct preposition because it indicates movement towards the inside or interior of something."
+        },
+        {
+          "questionNo": 12,
+          "question": "The book fell ________ the shelf. (off/of)",
+          "options": [
+            "off",
+            "of"
+          ],
+          "answer": 0,
+          "explanation": "'Off' is the correct preposition because it indicates movement away from a surface or position."
+        },
+        {
+          "questionNo": 13,
+          "question": "Which preposition best completes the sentence: 'The airplane flew _____ the clouds.'?",
+          "options": [
+            "into",
+            "onto",
+            "upon",
+            "inside"
+          ],
+          "answer": 0,
+          "explanation": "This preposition indicates movement from outside to inside the clouds."
+        },
+        {
+          "questionNo": 14,
+          "question": "He lives ________ Main Street. (on/in)",
+          "options": [
+            "on",
+            "in"
+          ],
+          "answer": 0,
+          "explanation": "'On' is the correct preposition because it indicates a location on a street or road."
+        },
+        {
+          "questionNo": 15,
+          "question": "The plane flew ________ the ocean. (through/across)",
+          "options": [
+            "through",
+            "across"
+          ],
+          "answer": 1,
+          "explanation": "'Across' is the correct preposition because it indicates movement from one side of the ocean to the other."
+        },
+        {
+          "questionNo": 16,
+          "question": "In the sentence 'The treasure was buried beneath the old oak,' what is the preposition?",
+          "options": [
+            "was",
+            "buried",
+            "beneath",
+            "old"
+          ],
+          "answer": 2,
+          "explanation": "This word introduces the prepositional phrase 'beneath the old oak' and shows the relationship between the treasure and the oak."
+        },
+        {
+          "questionNo": 17,
+          "question": "Which sentence uses a prepositional phrase as an adverb?",
+          "options": [
+            "The house on the hill is haunted.",
+            "She spoke with confidence.",
+            "The boy in blue is my brother.",
+            "We found a box of chocolates."
+          ],
+          "answer": 1,
+          "explanation": "The prepositional phrase 'with confidence' modifies the verb 'spoke,' describing how she spoke."
+        },
+        {
+          "questionNo": 18,
+          "question": "What is the object of the preposition in the phrase 'inside the mysterious cave'?",
+          "options": [
+            "inside",
+            "the",
+            "mysterious",
+            "cave"
+          ],
+          "answer": 3,
+          "explanation": "In a prepositional phrase, the object is the noun or pronoun that follows the preposition."
+        },
+        {
+          "questionNo": 19,
+          "question": "In the sentence 'The book is hidden behind the curtain,' what is the object of the preposition?",
+          "options": [
+            "book",
+            "is",
+            "hidden",
+            "curtain"
+          ],
+          "answer": 3,
+          "explanation": "In a prepositional phrase, the object is the noun or pronoun that follows the preposition."
+        },
+        {
+          "questionNo": 20,
+          "question": "Which preposition best completes the sentence: 'The cat peered _____ the fishbowl.'?",
+          "options": [
+            "into",
+            "onto",
+            "above",
+            "below"
+          ],
+          "answer": 0,
+          "explanation": "This preposition suggests the cat is looking from outside to inside the fishbowl."
+        },
+        {
+          "questionNo": 21,
+          "question": "The rainbow appeared ________ the storm. (over/after)",
+          "options": [
+            "over",
+            "after"
+          ],
+          "answer": 1,
+          "explanation": "'After' is the correct preposition because it indicates the sequence of events, where the rainbow appears subsequent to the occurrence of the storm."
+        },
+        {
+          "questionNo": 22,
+          "question": "Which sentence contains a prepositional phrase used as an adjective?",
+          "options": [
+            "We walked to the store.",
+            "The girl with red hair is my sister.",
+            "He spoke loudly during the movie.",
+            "They arrived after dinner."
+          ],
+          "answer": 1,
+          "explanation": "The prepositional phrase 'with red hair' modifies the noun 'girl,' functioning as an adjective."
+        },
+        {
+          "questionNo": 23,
+          "question": "The children played hide-and-seek ________ the big oak tree. (behind/beside)",
+          "options": [
+            "behind",
+            "beside"
+          ],
+          "answer": 0,
+          "explanation": "'Behind' is the appropriate preposition here because it indicates the location of the activity relative to the tree."
+        },
+        {
+          "questionNo": 24,
+          "question": "What is the function of the prepositional phrase in the sentence 'During the storm, we stayed indoors.'?",
+          "options": [
+            "Adverb",
+            "Adjective",
+            "Subject",
+            "Object"
+          ],
+          "answer": 0,
+          "explanation": "The prepositional phrase 'During the storm' modifies the verb 'stayed,' telling when the action occurred."
+        }
+      ]
+    }
+  ]
+}
